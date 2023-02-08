@@ -4,3 +4,5 @@ image:
   tag: latest
 dns:
   name: a875d10360a44a02a030.eastus.aksapp.io
+service:
+  port: 80
