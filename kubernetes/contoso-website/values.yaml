@@ -6,3 +6,8 @@ dns:
   name: a875d10360a44a02a030.eastus.aksapp.io
 service:
   port: 80
+autoscaling:
+  minReplicas: 1
+  maxReplicas: 2
+  targetCPUUtilizationPercentage: 20
+  targetMemoryUtilizationPercentage: 20
