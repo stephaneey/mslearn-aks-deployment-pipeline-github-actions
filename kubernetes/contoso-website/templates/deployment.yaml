@@ -3,6 +3,8 @@ kind: Deployment
 metadata:
   name: contoso-website
   namespace: {{ default "staging" .Release.Namespace }}
+  annotations:
+    rollme: {{ randAlphaNum 5 | quote }}
 
 spec:
   selector:
