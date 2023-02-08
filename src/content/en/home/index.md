@@ -1,6 +1,6 @@
 ---
-title: "We are Contoso bug fix"
+title: "We are Contoso"
 headless: true
 ---
 
-We're the next level drone making company
+We're the next level drone making company bug fix
