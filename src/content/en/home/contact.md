@@ -1,5 +1,5 @@
 ---
-title: "Contact abc"
+title: "Contact"
 ---
 
 Get in touch with us!
